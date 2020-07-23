@@ -1,4 +1,4 @@
-## Welcome to 山衛公司AOI部
+## Welcome to 山衛公司AOI技術部
 
 You can use the [editor on GitHub](https://github.com/CNS-QIF/Samwell-AOI/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
